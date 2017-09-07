@@ -19,7 +19,7 @@
 ### Ctrl
 |快捷键|介绍|
 |:-------:|:------|
-<kbd>Ctrl</kbd> + <kbd>F</kbd>|在当前文件进行文本查找 （`必备`）
+<kbd>Ctrl</kbd> + <kbd>F</kbd>|在当前文件进行文本查找 `（必备）`
 <kbd>Ctrl</kbd> + <kbd>R</kbd>|在当前文件进行文本替换 （必备）
 <kbd>Ctrl</kbd> + <kbd>Z</kbd>|撤销（必备）
 <kbd>Ctrl</kbd> + <kbd>Y</kbd>|删除光标所在行 或 删除选中的行（必备）
