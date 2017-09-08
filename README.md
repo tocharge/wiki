@@ -66,9 +66,13 @@
 |<kbd>Ctrl</kbd> + <kbd> 右方向键</kbd>|光标跳转到当前单词的右侧开头位置 （必备）|
 |<kbd>Ctrl</kbd> + <kbd> 前方向键</kbd>|等效于鼠标滚轮向前效果 （必备）|
 |<kbd>Ctrl</kbd> + <kbd> 后方向键</kbd>|等效于鼠标滚轮向后效果 （必备）|
+  
+  
 ### Alt
-快捷键|介绍
-:----:|:----
+
+
+|快捷键|介绍|
+|:----:|:----|
 |<kbd>Alt</kbd> + <kbd>`</kbd>|显示版本控制常用操作菜单弹出层 （必备）|
 |<kbd>Alt</kbd> + <kbd>Q</kbd>|弹出一个提示，显示当前类的声明 / 上下文信息|
 |<kbd>Alt</kbd> + <kbd>F1</kbd>|显示当前文件选择目标弹出层，弹出层中有很多目标可以进行选择 （必备）
@@ -84,9 +88,13 @@
 |<kbd>Alt</kbd> + <kbd>前方向键</kbd>|当前光标跳转到当前文件的前一个方法名位置 （必备）|
 |<kbd>Alt</kbd> + <kbd>后方向键</kbd>|当前光标跳转到当前文件的后一个方法名位置 （必备）|
 |<kbd>Alt</kbd> + <kbd>1,2,3...9</kbd>|显示对应数值的选项卡，其中 1 是 Project 用得最多 （必备）|
+  
+  
 ### Shift
-快捷键|介绍
-:----:|:----
+
+
+|快捷键|介绍|
+|:----:|:----|
 |<kbd>Shift</kbd> + <kbd>F1</kbd>|如果有外部文档可以连接外部文档|
 |<kbd>Shift</kbd> + <kbd>F2</kbd>|跳转到上一个高亮错误 或 警告位置|
 |<kbd>Shift</kbd> + <kbd>F3</kbd>|在查找模式下，查找匹配上一个|
@@ -103,9 +111,12 @@
 |<kbd>Shift</kbd> + <kbd>Enter</kbd>|开始新一行。光标所在行下空出一行，光标定位到新行位置 （必备）|
 |<kbd>Shift</kbd> + <kbd>左键单击</kbd>|在打开的文件名上按此快捷键，可以关闭当前打开文件 （必备）|
 |<kbd>Shift</kbd> + <kbd>滚轮前后</kbd>|滚动当前文件的横向滚动轴滚动 （必备）|
+  
 ### Ctrl + Alt
-快捷键|介绍
-:----:|:----
+
+
+|快捷键|介绍|
+|:----:|:----|
 |<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>L</kbd>|格式化代码，可以对当前文件和整个包目录使用 （必备）|
 |<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>O</kbd>|优化导入的类，可以对当前文件和整个包目录使用 （必备）|
 |<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>I</kbd>|光标所在行 或 选中部分进行自动代码缩进，有点类似格式化|
@@ -125,9 +136,13 @@
 |<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>右方向键</kbd>|前进到上一个操作的地方 （必备）|
 |<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>前方向键</kbd>|在查找模式下，跳到上个查找的文件|
 |<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>后方向键</kbd>|在查找模式下，跳到下个查找的文件|
+  
+  
 ### Ctrl + Shift
-快捷键|介绍
-:----:|:----
+
+
+|快捷键|介绍|
+|:----:|:----|
 |<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd>|根据输入内容查找整个项目 或 指定目录内文件 （必备）|
 |<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd>|根据输入内容替换对应内容，范围为整个项目 或 指定目录内文件 （必备）|
 |<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>J</kbd>|自动将下一行合并到当前行末尾 （必备）|
@@ -161,9 +176,13 @@
 |<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>右方向键</kbd>|在代码文件上，光标跳转到当前单词 / 中文句的右侧开头位置，同时选中该单词 / 中文句 （必备）|
 |<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>前方向键</kbd>|光标放在方法名上，将方法移动到上一个方法前面，调整方法排序 （必备）|
 |<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>后方向键</kbd>|光标放在方法名上，将方法移动到下一个方法前面，调整方法排序 （必备）|
+  
+  
 ### Alt + Shift
-快捷键|介绍
-:----:|:----|
+
+
+|快捷键|介绍|
+|:----:|:----|
 |<kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd>|选择 / 添加 task （必备）|
 |<kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd>|显示添加到收藏夹弹出层 / 添加到收藏夹|
 |<kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>C</kbd>|查看最近操作项目的变化情况列表|
@@ -174,16 +193,22 @@
 |<kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>左键双击</kbd>|选择被双击的单词 / 中文句，按住不放，可以同时选择其他单词 / 中文句 （必备）|
 |<kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>前方向键</kbd>|移动光标所在行向上移动 （必备）|
 |<kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>后方向键</kbd>|移动光标所在行向下移动 （必备）|
+  
 ### Ctrl + Shift + Alt
-快捷键|介绍
-:----:|:----
+
+  
+|快捷键|介绍|
+|:----:|:----|
 |<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>V</kbd>|无格式黏贴 （必备）|
 |<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>N</kbd>|前往指定的变量 / 方法|
 |<kbd>Ctrl</kbd> + Shift + <kbd>Alt</kbd> + <kbd>S</kbd>|打开当前项目设置 （必备）|
 |<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>C</kbd>|复制参考信息|
+  
 ### 其他
-快捷键|介绍
-:----:|:----
+
+  
+|快捷键|介绍|
+|:----:|:----|
 |<kbd>F2</kbd>|跳转到下一个高亮错误 或 警告位置 （必备）|
 |<kbd>F3</kbd>|在查找模式下，定位到下一个匹配处|
 |<kbd>F4</kbd>|编辑源 （必备）|
@@ -194,5 +219,5 @@
 |<kbd>F12</kbd>|回到前一个工具窗口 （必备）|
 |<kbd>Tab</kbd>|缩进 （必备）|
 |<kbd>ESC</kbd>|从工具窗口进入代码文件窗口 （必备）
-连按两次<kbd>Shift</kbd>弹出| Search Everywhere 弹出层|
+|连按两次<kbd>Shift</kbd>弹出| Search Everywhere 弹出层|
 
