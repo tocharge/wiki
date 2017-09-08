@@ -21,11 +21,11 @@
 
 |快捷键|介绍|
 |----|-----|
-<kbd>Ctrl</kbd> + <kbd>F</kbd>|在当前文件进行文本查找 `（必备）`
-<kbd>Ctrl</kbd> + <kbd>R</kbd>|在当前文件进行文本替换 （必备）
-<kbd>Ctrl</kbd> + <kbd>Z</kbd>|撤销（必备）
-<kbd>Ctrl</kbd> + <kbd>Y</kbd>|删除光标所在行 或 删除选中的行（必备）
-<kbd>Ctrl</kbd> + <kbd>X</kbd>|剪切光标所在行 或 剪切选择内容
+|<kbd>Ctrl</kbd> + <kbd>F</kbd>|在当前文件进行文本查找 `（必备）`|
+|<kbd>Ctrl</kbd> + <kbd>R</kbd>|在当前文件进行文本替换 （必备）|
+|<kbd>Ctrl</kbd> + <kbd>Z</kbd>|撤销（必备）|
+|<kbd>Ctrl</kbd> + <kbd>Y</kbd>|删除光标所在行 或 删除选中的行（必备）|
+|<kbd>Ctrl</kbd> + <kbd>X</kbd>|剪切光标所在行 或 剪切选择内容|
 <kbd>Ctrl</kbd> + <kbd>C</kbd>|复制光标所在行 或 复制选择内容
 <kbd>Ctrl</kbd> + <kbd> D</kbd>|复制光标所在行 或 复制选择内容，并把复制内容插入光标位置下面 （必备）
 <kbd>Ctrl</kbd> + <kbd> W</kbd>|递进式选择代码块。可选中光标所在的单词或段落，连续按会在原有选中的基础上再扩展选中范围 （必备）
